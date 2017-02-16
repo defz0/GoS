@@ -1,1 +1,1 @@
-# GoS
+# GoS Scripts
