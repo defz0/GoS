@@ -1,6 +1,3 @@
---CREDITS
---LoggeL
---https://github.com/LoggeL/GoS
 
 if GetObjectName(GetMyHero()) ~= "Veigar" then return end
 
