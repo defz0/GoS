@@ -1,4 +1,3 @@
-
 if GetObjectName(GetMyHero()) ~= "Veigar" then return end
 
 require("OpenPredict")
